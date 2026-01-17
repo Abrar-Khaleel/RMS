@@ -81,7 +81,3 @@ To adjust the visual theme:
 
 * **Styles:** Modify `css/style.css` to change the primary color palette.
 * **Glassmorphism:** Locate the `.card-glass` class in the CSS to tweak background blur, transparency, and border-radius.
-
-```
-
----
